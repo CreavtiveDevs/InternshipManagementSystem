@@ -1,22 +1,20 @@
-This is the frontend for Group 1's IMS Project. The frontend is at https://github.com/IMSEMU/IMS-BACKEND
-
 ## Getting Started
 
 First, run the development server:
 
 ```bash
-cd client
+## cd client
 
-npm i
+## npm i
 
-npm run dev
-
-json-server --watch data/db.json --port 8000
+## npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Emails are received on malitrap, an email delievry platform.
+This is the frontend for the School Internship Management System, The Backendend is at https://github.com/IMSEMU/IMS-BACKEND
+
+Emails for authentication are received on malitrap, an email delievry platform.
 Emails can be accessed with on [Mailtrap](https://mailtrap.io/) with these login details:
 
 **email: intermsproject@gmail.com
